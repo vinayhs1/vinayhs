@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinayhs
--  I’m interested in artificial intelligence and machine learning 
--  I’m currently learning aiml
+-  I’m interested in artificial intelligence 
+-  I’m currently learning AI
 - reach me @ hvinay87@gmil.com
 
